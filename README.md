@@ -1,13 +1,8 @@
-<h3 align="center">
+# Donation Website
 
-`Jetsada Wijit`
+Minimal landing page that collects all my donation links in one place so supporters can choose their favorite platform. Built with simple HTML and CSS for fast loading and easy hosting.
 
-[![website](https://img.shields.io/badge/website-blue)](https://jetsadawijit.github.io/donation-website)
-[![mail](https://img.shields.io/badge/mail-blue)](mailto:ze_ro_owen@hotmail.com)
+## Links
 
-[![Donation](https://img.shields.io/badge/buymeacoffee-white)](https://buymeacoffee.com/jetsadawijit)
-[![Donation](https://img.shields.io/badge/ko--fi-white)](https://ko-fi.com/jetsadawijit)
-[![Donation](https://img.shields.io/badge/opencollective-white)](https://opencollective.com/jetsadawijit)
-[![Donation](https://img.shields.io/badge/patreon-white)](https://patreon.com/JetsadaWijit)
-
-</h3>
+- Live site: <https://jetsadawijit.github.io/donation-website>
+- Repository: <https://github.com/JetsadaWijit/donation-website>
