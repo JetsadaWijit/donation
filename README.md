@@ -4,5 +4,5 @@ Minimal landing page that collects all my donation links in one place so support
 
 ## Links
 
-- Live site: <https://jetsadawijit.github.io/donation-website>
-- Repository: <https://github.com/JetsadaWijit/donation-website>
+- Live site: <https://jetsadawijit.github.io/donation>
+- Repository: <https://github.com/JetsadaWijit/donation>
